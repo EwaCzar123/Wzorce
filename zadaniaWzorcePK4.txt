@@ -1,0 +1,10 @@
+zad1
+1. Napisz funkcjê, która porównuje dwie liczby i stwierdza, która jest wiêksza w dwóch wersjach: I – funkcja bez wzorców, II – funkcja wykorzystuj¹ca wzorce.
+2. U¿ywaj¹c typeid sprawdŸ w funkcjach z 1 zad. jakich typów s¹ danê.
+
+zad2
+Stworzyæ wzór klasy - lista, nastêpnie jej klasê pochodn¹ - lista dwukierunkowa (elementy pouk³adane w porz¹dku rosn¹cym).
+Stworzyæ strukturê zawieraj¹c¹ kilka napisów string (pierwszy element struktury decyduje o kolejnoœci w liœcie).
+Stworzyæ dla list wzorzec szczegó³owy dla struktury.
+Sprawdziæ dzia³anie funkcji na ró¿nych typach, miêdzy innymi dla utworzonej struktury.
+
